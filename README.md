@@ -1,4 +1,4 @@
-## Desafio de Programação para Candidatos
+## Desafio de Programação da Calpar
 
 Olá e bem-vindo ao desafio de programação da Calpar! Este teste foi elaborado para avaliar suas habilidades de programação e sua capacidade de trabalhar com um framework web, consumir uma API e integrar funcionalidades nativas do navegador.
 
